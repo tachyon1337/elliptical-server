@@ -1,0 +1,10 @@
+{
+    "name": "elliptical-server",
+    "description": "Elliptical Node/Express Server",
+    "version": "1.0.0",
+    "author": "S. Francis",
+    "license": "MIT",
+    "dependencies": {
+        "express": "3.1.0"
+    }
+}
