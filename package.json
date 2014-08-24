@@ -9,6 +9,16 @@
         "url": "https://github.com/tachyon1337/elliptical-server.git"
     },
     "dependencies": {
-        "express": "3.1.0"
+        "express": "3.1.0",
+        "elliptical-utils":"git+https://github.com/tachyon1337/elliptical-utils.git",
+        "elliptical-dustjs":"git+https://github.com/tachyon1337/elliptical-dustjs.git",
+        "elliptical-mvc":"git+https://github.com/tachyon1337/elliptical-mvc.git",
+        "elliptical-event":"git+https://github.com/tachyon1337/elliptical-event.git",
+        "elliptical-url":"git+https://github.com/tachyon1337/elliptical-url.git",
+        "elliptical-crypto":"git+https://github.com/tachyon1337/elliptical-crypto.git",
+        "elliptical-http":"git+https://github.com/tachyon1337/elliptical-http.git",
+        "elliptical-middleware":"git+https://github.com/tachyon1337/elliptical-middleware.git",
+        "elliptical-providers":"git+https://github.com/tachyon1337/elliptical-providers.git",
+        "elliptical-services":"git+https://github.com/tachyon1337/elliptical-services.git"
     }
 }
